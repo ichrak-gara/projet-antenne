@@ -1,0 +1,4 @@
+select ;
+select * from ichrak where dni = 2 and grp = 2 ;
+select * from ichrak where dni = 2 order grp asc;
+select * from ichrak where dni = ;
